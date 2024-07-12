@@ -1,6 +1,6 @@
 ![](https://i.imgur.com/xG74tOh.png)
 
-# DIÁRIO DE APRENDIZADO - MÓDULO 2
+> # *DIÁRIO DE APRENDIZADO - MÓDULO 2* :sparkles:
 
 ## :pushpin: Conteúdos a serem trabalhados nesse módulo:
 
