@@ -2,9 +2,9 @@
 
 # DIÁRIO DE APRENDIZADO - MÓDULO 2
 
-## Conteúdos a serem trabalhados nesse módulo:
+## :pushpin: Conteúdos a serem trabalhados nesse módulo:
 
-***Hard skills***:
+:white_medium_square: ***Hard skills***:
 
     • Funções
     • Tipos de dados 
@@ -12,15 +12,15 @@
     • Tipos Utilitários 
     • Métodos de Arrays 
 
-***Soft skills***
+:white_medium_square: ***Soft skills***
       
     • Gestão de tempo 
     • Postura Profissional 
     • LinkedIn: primeiros passos 
 
-## O que eu já sei sobre os assuntos que serão abordados nesse módulo?
+## :pushpin: O que eu já sei sobre os assuntos que serão abordados nesse módulo?
 
-- ***Gestão de tempo***
+:white_medium_square: ***Gestão de tempo***
     
     Separar as atividades a serem feitas por categorias: "urgente", "não urgente", "importante", "não importante".
   
@@ -28,7 +28,7 @@
   
     E oque for "não urgente e não importante" = agende.
 
-- ***LinkedIn: primeiros passos*** 
+:white_medium_square: ***LinkedIn: primeiros passos*** 
 
     Criar o cadastro;
   
@@ -36,7 +36,8 @@
   
     Colocar uma foto de capa com uma boa qualidade e que seja relacionado a sua área de atuação;
   
-    No título colocar sua área de atuação atual junto com algumas hards skills mais dominantes, atuais, e mais procuradas (palavras chave);
+    No título colocar sua área de atuação atual junto 
+    com algumas hards skills mais dominantes, atuais, e mais procuradas (palavras chave);
   
     Customizar sua URL do perfil;
   
@@ -45,31 +46,31 @@
   
     Em seguida preencher os seguintes campos: "experiência", "formação" e "competências".
 
-- ***Postura profissional***
+:white_medium_square: ***Postura profissional***
     
     Postura ética, ser responsável,ter bons relacionamentos interpessoais e se comunicar de forma clara e respeitosa.
 
-## O que quero aprender sobre os assuntos que serão abordados nesse módulo?
+## :pushpin: O que quero aprender sobre os assuntos que serão abordados nesse módulo?
 
-- ***Funções***
+:white_medium_square: ***Funções***
     
     Quero saber oque é para que serve e como é utilizado nas linhas de código.
   
-- ***Métodos de Arrays***
+:white_medium_square: ***Métodos de Arrays***
     
     Quero saber quais são esses métodos, outras maneiras de aplicar nas linhas de código ?
     Para que serve ? É um método de aplicação dos Arrays em situações mais complexas ?
     Como é utilizado nas linhas de código?
   
-- ***Tipos de dados***
+:white_medium_square: ***Tipos de dados***
     
     Quero saber quais são esses tipos de dados, e em quais situações se aplicam.
 
-- ***Tipos utilitários***
+:white_medium_square: ***Tipos utilitários***
     
     Quero saber oque são esses tipos utilitários, seriam outros tipos de tipagem de dados ? e em quais situações se aplicam.
   
   
-## Minha evolução: o que aprendi sobre os assuntos que foram abordados nesse módulo?
+## :pushpin: Minha evolução: o que aprendi sobre os assuntos que foram abordados nesse módulo?
 
-- ***Em construção . . .***
+:white_medium_square: ***Em construção . . .***
