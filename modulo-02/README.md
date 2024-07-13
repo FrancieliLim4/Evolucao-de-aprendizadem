@@ -72,4 +72,4 @@
   
 ## :pushpin: Minha evolução: o que aprendi sobre os assuntos que foram abordados nesse módulo?
 
-:white_medium_square: ***Em construção . . .***
+:white_medium_square: ***Em construção . . .*** :pick:
