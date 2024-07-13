@@ -1,2 +1,2 @@
-## EM CONSRUÇÃO . . . :pick:
+## EM CONSTRUÇÃO . . . :pick:
  
