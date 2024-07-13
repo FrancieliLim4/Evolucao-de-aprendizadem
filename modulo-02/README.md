@@ -8,8 +8,7 @@
 
     • Funções
     • Tipos de dados 
-    • Tipos Utilitários 
-    • Tipos Utilitários 
+    • Tipos Utilitários
     • Métodos de Arrays 
 
 :white_medium_square: ***Soft skills***
