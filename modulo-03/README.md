@@ -16,6 +16,7 @@
     • Tratamento de erros com express
 
 :white_medium_square: ***Soft skills***
+
     • Github  
     • Tendências em tecnologia
     • Pesquisa e leitura de documentações
