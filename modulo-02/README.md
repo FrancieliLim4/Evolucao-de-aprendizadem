@@ -72,4 +72,20 @@
   
 ## :pushpin: Minha evolução: o que aprendi sobre os assuntos que foram abordados nesse módulo?
 
-:white_medium_square: ***Em construção . . .*** :pick:
+:white_medium_square: ***Funções***
+
+    É uma estrutura que guarda uma tarefa a ser realizada, assim, quando for preciso executar essa tarefa novamente
+    não será necessário repetir as mesmas linhas de código, podendo apenas chamar a função pelo nome que foi dado a ela.
+
+:white_medium_square: ***Métodos de arrays***
+
+    São funções nativas do JavaScript, que auxiliam para que não seja necessário usar muitas linhas de código 
+    para manipular, alterar ou obter informações da estrutura.
+
+:white_medium_square: ***Tipos de dados***
+
+    São métodos que mesclam, personalizam, unem e manipulam o tipo de um dado.
+
+:white_medium_square: ***Tipos utilitários***
+
+    São tipos que manipulam outros tipos.
