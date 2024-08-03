@@ -1,21 +1,26 @@
 ![](https://i.imgur.com/xG74tOh.png)
 
-> # *DIÁRIO DE APRENDIZADO - MÓDULO 2* :sparkles:
+> # *DIÁRIO DE APRENDIZADO - MÓDULO 3* :sparkles:
 
 ## :pushpin: Conteúdos a serem trabalhados nesse módulo:
 
 :white_medium_square: ***Hard skills***:
 
-    • Funções
-    • Tipos de dados 
-    • Tipos Utilitários
-    • Métodos de Arrays 
+    • Testes automatizados
+    • Primeiro Servidor
+    • Rotas, Intermediários e Controladores
+    • API REST
+    • Orientação a Objetos
+    • Assincronismo e Leitura e Escrita em Arquivos
+    • Generics
+    • Tratamento de erros com express
 
 :white_medium_square: ***Soft skills***
-      
-    • Gestão de tempo 
-    • Postura Profissional 
-    • LinkedIn: primeiros passos 
+    • Github  
+    • Tendências em tecnologia
+    • Pesquisa e leitura de documentações
+    • Autoconhecimento e Inteligência Emocional
+    • Comunicação
 
 ## :pushpin: O que eu já sei sobre os assuntos que serão abordados nesse módulo?
 
